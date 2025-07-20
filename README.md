@@ -52,11 +52,11 @@ npm run dev
 
 ```
 
-📜 License
+## 📜 License
 This project is open-source and free to use.
 Built with ❤️ for learning and fun.
 
- 🙏 Credits
+## 🙏 Credits
 🔊 Sound effects from Freesound.org
 🎨 Lottie animations from LottieFiles
 💻 Created by Senesh Anujaya
